@@ -3,10 +3,10 @@
   "directeur": "Kyle Balda, Pierre Coffin",
   "Auteur": "Brian Lynch,",
   "Date": 2015,
-  "Vedette":[
+  "Vedette": [
     {
       "Nom": "Sandra Bullock",
-      "Personnage": "Scarlet Overkill (voix)",
+      "Personnage": "Scarlet Overkill (voix)"
     },
     {
       "Nom": "Jon Hamm",
@@ -17,4 +17,6 @@
       "Personnage": "Walter Nelson (voix)"
     }
   ]
+
+
 }
